@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <link href="../styles/style.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Museum</title>
@@ -16,12 +16,12 @@
                 <hr>
             </div>
             <ul>
-                <a href="../index.html"><li>Home</li></a> 
-                <a href="../entreprise/rapport.html"><li>Entreprise</li></a>
-                <a href="../entreprise/inter2.html"><li>Interview</li></a>
-                <a href="museum.html"><li>Musée</li></a>
-                <a href="galerie1.html"><li>Galerie</li></a>
-                <a href="../conclusion.html"><li>Conclusion</li></a>
+                <a href="?section=home"><li>Home</li></a> 
+                <a href="?section=entreprise"><li>Entreprise</li></a>
+                <a href="?section=interview"><li>Interview</li></a>
+                <a href="?section=museum"><li>Musée</li></a>
+                <a href="?section=galerie"><li>Galerie</li></a>
+                <a href="?section=conclusion"><li>Conclusion</li></a>
             </ul>
         </nav>
         <h2>Musée</h2>
@@ -30,7 +30,7 @@
     
     
     <div id="expoimg">                          <!-- id to differentiate between the float of this image and expoimg2 -->
-        <img src="../images/thumb/photo37.jpg">
+        <img src="images/thumb/photo37.jpg">
     </div>
     <div>
         <p class="museum1">
@@ -47,7 +47,7 @@
     <h2>Un petit mot pour Judith</h2>
 
     <div id="expoimg2">
-        <img src="../images/thumb/photo45.jpg"></div>
+        <img src="images/thumb/photo45.jpg"></div>
         <p class="museum2">
         Oublié dans 'Les Femmes Remarquables dans l'Histoire de l'informatique, Judith Love Cohen était une ingénieuse aérospatiale. Ses travaux d'ingénierie comprenaient des travaux sur l'ordinateur de guidage du missile 'Minuteman', the 'Hubble Space Telescope' et sur le système de guidage d'abandon (AGS - de l'Anglais : Abort Guidance System) du module lunaire Apollo.<br> En Avril 1970, L'AGS a joué un rôle important dans le retour en toute sécurité d'Apollo 13 après qu'une explosion du réservoir d'oxygène a paralysé le module de service et forcé les astronautes à utiliser le module lunaire comme 'lifeboat'. 
         Lorsque le désastre a frappé la mission Apollo 13, c'était l'AGS qui a ramené les astronautes chez eux en toute sécurité.</p>

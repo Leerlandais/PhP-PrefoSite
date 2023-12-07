@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <link href="../styles/style.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interview</title>
@@ -13,12 +13,12 @@
             <h1 id="hspec">Site Préformation de Lee Brennan</h1><hr>
 
             <ul>
-                <a href="../index.html"><li>Home</li></a> 
-                <a href="rapport.html"><li>Entreprise</li></a>
-                <a href="inter2.html"><li>Interview</li></a>
-                <a href="../expo/museum.html"><li>Musée</li></a>
-                <a href="../expo/galerie1.html"><li>Galerie</li></a>
-                <a href="../conclusion.html"><li>Conclusion</li></a>
+                <a href="?section=home"><li>Home</li></a> 
+                <a href="?section=entreprise"><li>Entreprise</li></a>
+                <a href="?section=interview"><li>Interview</li></a>
+                <a href="?section=museum"><li>Musée</li></a>
+                <a href="?section=galerie"><li>Galerie</li></a>
+                <a href="?section=conclusion"><li>Conclusion</li></a>
             </ul>
         </nav>
     </header>
@@ -34,7 +34,7 @@
                 <div class="column" id="col1">JD Davis
                     <p id="intanswerJD">
 
-                        <img src="../images/JD.png" alt="JD" title="Photo profil de linkedin">                        
+                        <img src="images/JD.png" alt="JD" title="Photo profil de linkedin">                        
                     </p>
                 </div> 
 
@@ -53,7 +53,7 @@
                 <div class="column" id="col3">Martin Copyright
                     <p id = "intanswerMC">
 
-                        <img src="../images/MC.png" alt="JD" title="Photo profil de linkedin">                        
+                        <img src="images/MC.png" alt="JD" title="Photo profil de linkedin">                        
                     </p>
                 </div> 
                 
@@ -66,7 +66,7 @@
             &copy; Lee Brennan
         </h4> <hr>
     </footer>
-<script src="../scripts/script.js"></script>
+<script src="scripts/script.js"></script>
 </body>
 </html>
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <link href="../styles/style.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rapport d'Entreprise</title>
@@ -15,19 +15,19 @@
                 <hr>
             </div>
             <ul>
-                <a href="../index.html"><li>Home</li></a> 
-                <a href="rapport.html"><li>Entreprise</li></a>
-                <a href="inter2.html"><li>Interview</li></a>
-                <a href="../expo/museum.html"><li>Musée</li></a>
-                <a href="../expo/galerie1.html"><li>Galerie</li></a>
-                <a href="../conclusion.html"><li>Conclusion</li></a>
+                <a href="?section=home"><li>Home</li></a> 
+                <a href="?section=entreprise"><li>Entreprise</li></a>
+                <a href="?section=interview"><li>Interview</li></a>
+                <a href="?section=museum"><li>Musée</li></a>
+                <a href="?section=galerie"><li>Galerie</li></a>
+                <a href="?section=conclusion"><li>Conclusion</li></a>
             </ul>
         </nav>
     </header>
     
    
         <div id="entreimg">
-            <a href="https://wiki.erg.be/m/#Bienvenue_%C3%A0_l%E2%80%99erg" target="_blank"><img src="../images/ERG.png"></a>
+            <a href="https://wiki.erg.be/m/#Bienvenue_%C3%A0_l%E2%80%99erg" target="_blank"><img src="images/ERG.png"></a>
         </div>
         <div id="rappad"><br><br><br>
        <h2>L'Ecole de Recherche Graphique</h2>      
