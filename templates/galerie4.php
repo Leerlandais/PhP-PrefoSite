@@ -31,9 +31,9 @@
         <h3>Cliquer sur une image pour l'agrandir</h3>
             <div>
                 <ul>
-                    <a href="galerie1.html"><li>Page 1</li></a>
-                    <a href="galerie2.html"><li>Page 2</li></a>
-                    <a href="galerie3.html"><li>Page 3</li></a>
+                    <a href="?page=galerie && section=galerie"><li>Page 1</li></a>
+                    <a href="?page=galerie && section=galerie2"><li>Page 2</li></a>
+                    <a href="?page=galerie && section=galerie3"><li>Page 3</li></a>
                 </ul>
             </div>
             <a href="#img40"><img src="images/thumb/photo40.jpg" title="Toshiba T1950"></a>

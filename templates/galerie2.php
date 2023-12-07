@@ -31,9 +31,9 @@
 
             <div>
                 <ul>
-                    <a href="galerie1.html"><li>Page 1</li></a>
-                    <a href="galerie3.html"><li>Page 3</li></a>
-                    <a href="galerie4.html"><li>Page 4</li></a>
+                <a href="?page=galerie && section=galerie"><li>Page 1</li></a>
+                    <a href="?page=galerie && section=galerie3"><li>Page 3</li></a>
+                    <a href="?page=galerie && section=galerie4"><li>Page 4</li></a>
                 </ul>
             </div>
 

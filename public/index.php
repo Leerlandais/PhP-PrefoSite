@@ -17,6 +17,15 @@ if(isset($_GET['section'])){
         case 'galerie':
             include('../templates/galerie1.php');
             break;
+        case 'galerie2':
+            include('../templates/galerie2.php');
+            break;
+        case 'galerie3':
+            include('../templates/galerie3.php');
+            break;
+        case 'galerie4':
+            include('../templates/galerie4.php');
+            break;
         case 'conclusion':
             include('../templates/conclusion.php');
             break;
